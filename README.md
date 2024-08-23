@@ -10,15 +10,15 @@ Suppose you are given these values.
 s ==>> abc
 t ==>> ahgbc
 ```
-The values of s are in the values in t.
+The values of `s` are in the values in `t`.
 
 Therefore the solution returns `TRUE`.
 
 The lesson task suggests to use two indices `i` and `j`.
 
-Index `j` is going through s.
+Index `j` is going through `s`.
 
-Index `i` is going through t.
+Index `i` is going through `t`.
 
 When the values at `i` and `j` match, then the solution can move both of the indices one position.
 
