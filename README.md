@@ -25,7 +25,4 @@ When the values at `i` and `j` match, then the solution can move both of the ind
 When the values at `i` and `j` do not match, then the solution does not want to move `j`,
 and the solution only moves index `i` one position.
 
-The stop condition is when `j` is equal the lenght of s minus 1.
-
-
-
+The stop condition is when `j` is equal the length of s minus 1.
